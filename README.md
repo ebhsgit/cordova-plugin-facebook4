@@ -48,7 +48,7 @@ If you are looking to test the plugin, would like to reproduce a bug or build is
 ## Compatibility
 
   * Cordova >= 5.0.0
-  * cordova-android >= 4.0
+  * cordova-android >= 7.0
   * cordova-ios >= 3.8
   * cordova-browser >= 3.6
   * Phonegap build (use phonegap-version >= cli-5.2.0, android-minSdkVersion>=15, and android-build-tool=gradle), see [example here](https://github.com/yoav-zibin/phonegap-tictactoe/blob/gh-pages/www/config.xml)
